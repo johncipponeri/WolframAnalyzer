@@ -1,0 +1,14 @@
+{
+	"extName": {
+		"message": "Wolfram Analyzer",
+		"description": "Extension name"
+	},
+	"extDesc": {
+		"message": "Analyze and solve things with Wolfram Alpha",
+		"description": "Extension description"
+	},
+	"openContextMenuTitle": {
+		"message": "Analyze with Wolfram",
+		"description": "context menu button text"
+	}
+}
