@@ -5,6 +5,7 @@
 	"description": "__MSG_extDesc__",
 	"icons": { "128": "icon128.png" },
 	"background": { "persistent": false, "scripts": ["background.js"] },
+	"omnibox": { "keyword": "wolfram" },
 	"default_locale": "en",
 	"permissions": ["contextMenus"]
 }
